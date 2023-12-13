@@ -1,4 +1,4 @@
-gsap.from("#nav h3",{
+gsap.from("#nav h4",{
   y:-50,
   duration:1,
   delay:0.5,
